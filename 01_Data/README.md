@@ -1,17 +1,22 @@
-# 01 – Data
+# Data Management
 
-This folder contains the datasets used in the MediTrack Pharmacy Sales and Inventory Analytics project.
-
-## Folder Structure
-
-- **Raw/** – Original source datasets.
-- **Cleaned/** – Cleaned and processed datasets used for analysis.
+This folder contains information about the datasets used in the MediTrack Pharmacy Sales & Inventory Analytics project.
 
 ## Datasets
 
-- Sales Dataset
-- Stock Dataset
+### 1. Pharmacy Sales Dataset
+Contains pharmacy sales transactions, invoice details, medicine information, quantities, discounts, and revenue.
 
-## Purpose
+### 2. Pharmacy Stock Dataset
+Contains inventory transactions, warehouse information, stock received, stock issued, and remaining stock.
 
-To prepare reliable data for analysis using Python, MySQL, and Power BI.
+## Data Handling
+
+- Raw datasets are maintained separately because of their large file sizes.
+- Cleaned datasets are prepared using Python and Pandas.
+- Processed data is used for SQL analysis and Power BI dashboards.
+
+## Folder Structure
+
+- Raw/ – Original source datasets (not uploaded).
+- Cleaned/ – Cleaned and processed datasets.
