@@ -2,11 +2,7 @@
 
 This folder contains information about the datasets used in the MediTrack Pharmacy Sales & Inventory Analytics project.
 
-## Dataset Source
-
-**Dataset:** Indonesian Retail Pharmacy Sales and Stock Transaction Dataset (2023–2025)
-
-**Source:** Mendeley Data
+## Dataset Download
 
 **Download:** https://drive.google.com/drive/folders/180zkWHwJwFU9o6479LOil-jemwLHNSw9?usp=sharing
 
