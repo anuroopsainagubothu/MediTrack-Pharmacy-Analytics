@@ -1,7 +1,9 @@
 # 04 – Power BI Dashboards
 
-This folder contains the interactive Power BI dashboards developed for the MediTrack Pharmacy Sales & Inventory Analytics project.
 
+Download:- https://drive.google.com/drive/folders/1ZswUz_XeANzYPLJdc6HlY7JwCd6egsJU?usp=sharing
+
+This folder contains the interactive Power BI dashboards developed for the MediTrack Pharmacy Sales & Inventory Analytics project.
 The dashboards transform pharmacy sales and inventory data into visual insights to support business performance monitoring and data-driven decision-making.
 
 ## Dashboard 1: Sales Performance Dashboard
