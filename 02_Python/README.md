@@ -6,6 +6,7 @@ Python was used for data exploration, data cleaning, preprocessing, and preparin
 
 ## Key Activities
 
+- Exploratory data Analysis (EDA)
 - Dataset inspection and understanding
 - Data structure and data type analysis
 - Missing value identification and treatment
