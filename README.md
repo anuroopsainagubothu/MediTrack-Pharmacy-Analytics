@@ -130,6 +130,17 @@ This project demonstrates how data analytics tools can be used to:
 - Identify business trends and performance patterns.
 - Monitor stock movement and inventory conditions.
 - Communicate findings through interactive dashboards.
+- 
+## 📊 Dashboard Preview
+
+<img width="1197" height="673" alt="Screenshot 2026-11-13 145011" src="https://github.com/user-attachments/assets/7ff0719e-691a-41e4-887c-0227cdfa74ea" />
+
+### Page 1 — Pharmacy Sales Performance
+
+<img width="1197" height="672" alt="MediTrack_Inventory_Stock_Dashboard" src="https://github.com/user-attachments/assets/9fc81afe-636c-44be-8e93-d2bced447f74" />
+
+### Page 2 — Pharmacy Inventory Analytics
+
 
 ## Author
 **Anuroop Sai** | Data Analyst | Python | SQL | Power BI | Excel
