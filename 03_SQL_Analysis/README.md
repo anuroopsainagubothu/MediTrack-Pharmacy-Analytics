@@ -1,7 +1,7 @@
 # 03 – SQL Analysis
+Download SQL Analysis Scripts :- https://drive.google.com/drive/folders/1C_Xes5Fdvh3tcrbT2UEIFyr2O1RT78Hn?usp=sharing
 
 This folder contains SQL scripts developed for the MediTrack Pharmacy Sales & Inventory Analytics project.
-
 MySQL was used to query, analyse, and extract meaningful business insights from pharmacy sales and inventory datasets.
 
 ## Key SQL Activities
